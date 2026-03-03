@@ -2,7 +2,7 @@
 
 # TechnicalIndicators
 
-A javascript technical indicators written in typescript.
+JavaScript technical indicators written in TypeScript.
 
 
 # Installation
